@@ -6,7 +6,7 @@ Zeplaka Hub is a script for a few games
 
 What is it?
 
-this is a Google doc to show how to dupe with it
+this is a github to show how to dupe with it
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/frozzle123/PopItZeplakaFree/main/Alasta"))()
