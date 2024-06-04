@@ -8,6 +8,7 @@ What is it?
 
 this is a github to show how to dupe with it
 
+Script
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/frozzle123/PopItZeplakaFree/main/Alasta"))()
 
